@@ -1,0 +1,5 @@
+﻿  quick_sort_project.cpp
+C:\Users\rhn23\source\repos\quick_sort_project\quick_sort_project.cpp(110,65): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\rhn23\source\repos\quick_sort_project\quick_sort_project.cpp(117,65): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\rhn23\source\repos\quick_sort_project\quick_sort_project.cpp(124,79): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  quick_sort_project.vcxproj -> C:\Users\rhn23\source\repos\quick_sort_project\x64\Debug\quick_sort_project.exe

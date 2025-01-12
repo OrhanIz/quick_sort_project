@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rhn23\\source\\repos\\quick_sort_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59ED32E3-DD32-4732-9C28-05A2200A5AFB}|quick_sort_project.vcxproj|C:\\Users\\rhn23\\source\\repos\\quick_sort_project\\quick_sort_project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59ED32E3-DD32-4732-9C28-05A2200A5AFB}|quick_sort_project.vcxproj|solutionrelative:quick_sort_project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5CF66D-5B3B-41EB-A56C-A60E65425B25}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{9D5CF66D-5B3B-41EB-A56C-A60E65425B25}|C:\\Users\\rhn23\\Desktop\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\rhn23\\Desktop\\main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\main.cpp",
+              "ToolTip": "C:\\Users\\rhn23\\Desktop\\main.cpp",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\main.cpp",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T21:30:27.545Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "xstring",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring",
+              "ViewState": "AgIAAJ8BAAAAAAAAAAD4v7EBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-12T21:44:11.226Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quick_sort_project.cpp",
+              "DocumentMoniker": "C:\\Users\\rhn23\\source\\repos\\quick_sort_project\\quick_sort_project.cpp",
+              "RelativeDocumentMoniker": "quick_sort_project.cpp",
+              "ToolTip": "C:\\Users\\rhn23\\source\\repos\\quick_sort_project\\quick_sort_project.cpp",
+              "RelativeToolTip": "quick_sort_project.cpp",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAcwHYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T21:25:53.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
